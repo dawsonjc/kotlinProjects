@@ -1,0 +1,35 @@
+com/example/cupcake/databinding/FragmentStartBindingImpl.java
+ com.example.cupcake.databinding.FragmentStartBindingImpl
+com/example/cupcake/databinding/FragmentPickupBinding.java
+ com.example.cupcake.databinding.FragmentPickupBinding
+com/example/cupcake/databinding/FragmentSummaryBindingImpl.java
+ com.example.cupcake.databinding.FragmentSummaryBindingImpl
+com/example/cupcake/databinding/FragmentFlavorBinding.java
+ com.example.cupcake.databinding.FragmentFlavorBinding
+com/example/cupcake/databinding/FragmentSummaryBinding.java
+ com.example.cupcake.databinding.FragmentSummaryBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/cupcake/BR.java
+ com.example.cupcake.BR
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/cupcake/DataBinderMapperImpl.java
+ com.example.cupcake.DataBinderMapperImpl
+ com.example.cupcake.DataBinderMapperImpl$InnerBrLookup
+ com.example.cupcake.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/cupcake/BuildConfig.java
+ com.example.cupcake.BuildConfig
+com/example/cupcake/databinding/FragmentStartBinding.java
+ com.example.cupcake.databinding.FragmentStartBinding
+com/example/cupcake/databinding/FragmentPickupBindingImpl.java
+ com.example.cupcake.databinding.FragmentPickupBindingImpl
+com/example/cupcake/databinding/FragmentFlavorBindingImpl.java
+ com.example.cupcake.databinding.FragmentFlavorBindingImpl
+com/example/cupcake/DataBindingTriggerClass.java
+ com.example.cupcake.DataBindingTriggerClass
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/cupcake/generated/callback/OnClickListener.java
+ com.example.cupcake.generated.callback.OnClickListener
+ com.example.cupcake.generated.callback.OnClickListener$Listener

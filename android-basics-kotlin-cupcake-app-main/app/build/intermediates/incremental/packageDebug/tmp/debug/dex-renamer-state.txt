@@ -1,0 +1,4 @@
+#Fri Mar 19 13:30:13 MST 2021
+base.0=C\:\\Users\\Disas\\OneDrive\\Documents\\GitHub\\kotlinProjects\\android-basics-kotlin-cupcake-app-main\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

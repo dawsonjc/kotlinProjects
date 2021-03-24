@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Disas\\OneDrive\\Documents\\GitHub\\kotlinProjects\\android-basics-kotlin-cupcake-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_start.xml",
+        "source": "C:\\Users\\Disas\\OneDrive\\Documents\\GitHub\\kotlinProjects\\android-basics-kotlin-cupcake-app-main\\app\\src\\main\\res\\layout\\fragment_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Disas\\OneDrive\\Documents\\GitHub\\kotlinProjects\\android-basics-kotlin-cupcake-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_flavor.xml",
+        "source": "C:\\Users\\Disas\\OneDrive\\Documents\\GitHub\\kotlinProjects\\android-basics-kotlin-cupcake-app-main\\app\\src\\main\\res\\layout\\fragment_flavor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Disas\\OneDrive\\Documents\\GitHub\\kotlinProjects\\android-basics-kotlin-cupcake-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_pickup.xml",
+        "source": "C:\\Users\\Disas\\OneDrive\\Documents\\GitHub\\kotlinProjects\\android-basics-kotlin-cupcake-app-main\\app\\src\\main\\res\\layout\\fragment_pickup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Disas\\OneDrive\\Documents\\GitHub\\kotlinProjects\\android-basics-kotlin-cupcake-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_summary.xml",
+        "source": "C:\\Users\\Disas\\OneDrive\\Documents\\GitHub\\kotlinProjects\\android-basics-kotlin-cupcake-app-main\\app\\src\\main\\res\\layout\\fragment_summary.xml"
+    }
+]
